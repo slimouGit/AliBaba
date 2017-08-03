@@ -1,3 +1,5 @@
-# AliBaba redesign comming soon
+Gebrauchsanleitung zum Betaetigen einer Tuerklinke
 
-old version: http://slimou.de/_____ausgelagert/_projekte/md2/AliBaba.html
+HTML5, CSS3, JavaScripz
+
+http://slimou.de/___AliBaba/index.html
